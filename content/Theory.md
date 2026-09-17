@@ -16,6 +16,9 @@ $$
 
 We can link to equations using their labels, like equation {numref}`schrodinger` or with more emphasis: {numref}`eq {number} <schrodinger>`. See the [documentation](https://mystmd.org/guide/math) for more options with using formulas. You might be interested in [specific ways of numbering](https://mystmd.org/guide/cross-references#continuous-numbering). 
 
+
+jkadhgfkujasdhfkjlhabsdlkughsdfkl;unglkjadshgfklasdjhgkljasdh;kljugha
+
 ```{tip}
 Check the hover-over functionality for these links!
 ```
